@@ -3,7 +3,7 @@
 ### TASoft LLC will use this space for news, announcements, and all related events.
 
 
-March 14, 2022
+On March 14, 2022
 TASoft LLC launched its new web site https://www.tasoft.net
 
 - The web site highligts the time-series foundational theory and its mathematical solution.
