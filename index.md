@@ -10,7 +10,7 @@ TASoft LLC launched its new web site https://www.tasoft.net
 - The web site also hights its products and services.
 
 On March 16, 2022
-- Beginning to provide optimized forecasting based trading scenarios.
+- Beginning to provide optimized forecasting based trading scenarios as part of TASoft LLC stock forecasting education.
 
 On March 23, 2022
 - Beginning to construct products/services details.
