@@ -16,5 +16,5 @@ On March 23, 2022
 - Beginning to construct products/services details.
 
 On March 29, 2002
-- Dr. Frank Zhu joins Microsoft Founders Hub.
+- Dr. Frank Zhu joined Microsoft Founders Hub.
 
