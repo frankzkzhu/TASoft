@@ -15,6 +15,9 @@ On March 16, 2022
 On March 23, 2022
 - Beginning to construct products/services details.
 
-On March 29, 2002
+On March 29, 2022
 - Dr. Frank Zhu joins Microsoft Founders Hub.
+
+On April 4, 2022
+- Product CSV Detail Page is alive!
 
