@@ -21,3 +21,6 @@ On March 29, 2022
 On April 4, 2022
 - Product CSV Detail Page is alive!
 
+On April 6, 2022
+- Added some trading scenarios with TASoft LLC guided forecast.
+
