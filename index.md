@@ -24,3 +24,6 @@ On April 4, 2022
 On April 6, 2022
 - Added some trading scenarios with TASoft LLC guided forecast.
 
+On April 7, 2022
+- First draft of short-term trading scenarios are alive!
+
