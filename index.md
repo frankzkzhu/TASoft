@@ -27,3 +27,6 @@ On April 6, 2022
 On April 7, 2022
 - First draft of short-term trading scenarios are alive!
 
+On April 12, 2022
+- Adding business partnership and general client services details.
+
