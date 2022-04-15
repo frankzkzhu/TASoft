@@ -30,3 +30,6 @@ On April 7, 2022
 On April 12, 2022
 - Adding business partnership and general client services details.
 
+On April 13, 2022
+- CEI spike forecasting after several days for oil sector again tells world events! 
+
