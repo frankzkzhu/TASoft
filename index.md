@@ -33,3 +33,6 @@ On April 12, 2022
 On April 13, 2022
 - CEI spike forecasting after several days for oil sector again tells world events! 
 
+On April 14, 2022
+- Redesign https://www.tasoft.net architecture for flexible content additions.
+
