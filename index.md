@@ -37,5 +37,5 @@ On April 14, 2022
 - Redesign https://www.tasoft.net architecture for flexible content additions.
 
 On April 17, 2022
-- It was discovered in the production process that another significant forecating accuracy improvement just through data integrationis on the way! Seems it is no longer my work!
+- It was discovered in the production process that another significant forecating accuracy improvement just through data integration is on the way! Seems it is no longer my work!
 
