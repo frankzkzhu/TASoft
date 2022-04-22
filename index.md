@@ -40,5 +40,5 @@ On April 17, 2022
 - It was discovered in the production process that another significant forecating accuracy improvement just through data integration is on the way! It surprises myself again! Should be just thankful!
 
 On April 21, 2022
-- TASoft LLC website is in its Alpha version. We will continue to improve its content. 
+- TASoft LLC website is in its Alpha version. We will continue to improve its content. We are also considering to leverage google workspace as our operation infrastructure.
 
