@@ -42,3 +42,5 @@ On April 17, 2022
 On April 21, 2022
 - TASoft LLC website is in its Alpha version. We will continue to improve its content. We are also considering to leverage google workspace as our operation infrastructure.
 
+On April 23, 2022
+- TASoft LLC is now supported by google workspace.
