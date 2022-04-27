@@ -44,3 +44,6 @@ On April 21, 2022
 
 On April 23, 2022
 - TASoft LLC is now supported by google workspace.
+
+On April 26, 2022
+- Automatic assessment holds the key of forecasting success as well, getting closer to production piplines!
