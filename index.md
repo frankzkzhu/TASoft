@@ -1,6 +1,8 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On May 4,2022
+- While the first generation of stock forecasting demonstrates impressive consistency, the second generation solution shows even better accuracy and consistency. Of course, it is all well explained under scientific context while our production is still under the way!!
 
 On April 26, 2022
 - Automatic assessment holds the key of forecasting success as well, getting closer to production piplines!
