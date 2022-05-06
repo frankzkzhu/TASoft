@@ -2,7 +2,7 @@
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
 On May 5,2022
-- One thing I learned about machine learning in the time series forecasting endeavor is that first, machine learning is just a tool, itself will not solve problems. Second, if machine learning really advances, it needs to be open box and be understandable. While there are so much hype about DeepLearning because of its success in image recognization, its further advance will be limited because it is opaque and closed system.
+- One thing I learned about machine learning in the time series forecasting endeavor is: first, machine learning is just a tool, itself will not solve problems. Second, if machine learning really advances, it needs to be open box and be understandable. While there are so much hype about DeepLearning because of its success in image recognization, its further advance will be limited because it is opaque and closed system.
 
 On May 4,2022
 - While the first generation of stock forecasting demonstrates impressive consistency, the second generation solution shows even better accuracy and consistency. Of course, it is all well explained under scientific context while our production is still under the way!!
