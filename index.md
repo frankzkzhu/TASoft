@@ -1,9 +1,8 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
-
-On May 5,2022
-- Considering adding mediem cap stock in the forecasting for bigger size movement.
+On May 10, 2022
+- Planning to add forecasting on some sector index etf fund, such as  biotechnology,healthcare and energy!
 
 On May 5,2022
 - One thing I learned about machine learning in the time series forecasting endeavor is: First, machine learning is just a tool, itself will not solve problems. Second, if machine learning really advances, it needs to be open box and be understandable. While there are so much hype about DeepLearning because of its success in image recognization, its further advance will be limited because it is opaque and closed system.
