@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On May 11, 2022
+- The recent market downturn creates great opportunity to test the forecasting scenarios and tests the forecasting strength on high accuracy forecasting and its QA process! 
+
 On May 10, 2022
 - Planning to add forecasting on some sector index etf fund, such as  biotechnology,healthcare and energy!
 
