@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On May 14, 2022
+- The recent downturn even provides good ROI opportunities for Mediem Cap Stocks and worthy for short term forecasting!
+
 On May 11, 2022
 - The recent market downturn creates great opportunity to test the forecasting scenarios and tests the forecasting strength on high accuracy forecasting and its QA process! 
 
