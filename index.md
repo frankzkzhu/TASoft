@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On May 18, 2022
+- It seems like parallel processing is the only way to boost the computing process to scale the comupting demands despite the recent acquisition of decent computing device. One more hurdle to the production line!
+
 On May 14, 2022
 - The recent downturn even provides good ROI opportunities for Medium Cap Stocks and worthy for short term forecasting!
 
