@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On May 24, 2022
+- Published Index Fund FMAT on TASoft LLC Website!
+
 On May 18, 2022
 - It seems like parallel processing is the only way to boost the computing process to scale the comupting demands despite the recent acquisition of decent computing device. One more hurdle to the production line!
 
