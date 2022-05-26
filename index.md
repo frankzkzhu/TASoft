@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On May 26, 2022
+- TASoft LLC published forecasting on Technology Sector Index Fund FTEC https://www.tasoft.net. It forecasts Technology sector is bottom up and there will be no technology led recession in the next two months.
+
 On May 24, 2022
 - Published Index Fund FMAT on TASoft LLC Website!
 
