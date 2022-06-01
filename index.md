@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On June 1, 2022
+- TASoft LLC now has its production line in place and ready to share forecasting datawith the world!
+
 On May 31, 2022
 - Updated technology sector index fund FTEC https://www.tasoft.net. Forecasting accuracy again reflects on index fund forecasting!
 
