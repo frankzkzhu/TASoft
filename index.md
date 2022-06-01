@@ -2,7 +2,7 @@
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
 On June 1, 2022
-- It seems like the mega cap stocks are very high volatility as well. Will get them covered as well! TASoft LLC now covers entire US stock market!
+- It seems like the mega cap stocks are very high volatile as well. Will get them covered as well! TASoft LLC now covers entire US stock market!
 
 On June 1, 2022
 - TASoft LLC now has its production line in place and ready to share forecasting datawith the world!
