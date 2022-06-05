@@ -5,7 +5,7 @@ On June 1, 2022
 - It seems like the mega cap stocks are very high volatile as well. Will get them covered as well! TASoft LLC now covers entire US stock market!
 
 On June 1, 2022
-- TASoft LLC now has its production line in place and ready to share forecasting datawith the world!
+- TASoft LLC now has its production line in place and ready to share forecasting data with the world!
 
 On May 31, 2022
 - Updated technology sector index fund FTEC https://www.tasoft.net. Forecasting accuracy again reflects on index fund forecasting!
