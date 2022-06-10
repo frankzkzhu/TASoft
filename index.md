@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On June 10, 2022
+- For a very volatile market, forecasting offers comfort and confidence. TASoft LLC now offers products on both sector index funds as a general guidance for the sector markets and stock forecastings.
+
 On June 1, 2022
 - It seems like the mega cap stocks are very high volatile as well. Will get them covered as well! TASoft LLC now covers entire US stock market!
 
