@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On June 13, 2022
+- It is observed that sometimes forecasting on certain ticks shows two complete opposite trending directions. This might warrant stock future study/understanding!
+  
 On June 12, 2022
 - TASoft LLC is considering to open a youtube channel offering forecasting based market analysis. Stay tuned!
 
