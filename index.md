@@ -2,7 +2,7 @@
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
 On June 13, 2022
-- It is observed that sometimes forecasting on certain ticks shows two complete opposite trending directions. This might warrant stock future study/understanding! Or is stock future deterministic?
+- It is observed that sometimes forecasting on certain ticks shows two complete opposite trending directions.  Is stock future deterministic? This research topic might warrant stock future study/understanding!
   
 On June 12, 2022
 - TASoft LLC is considering to open a youtube channel offering forecasting based market analysis. Stay tuned!
