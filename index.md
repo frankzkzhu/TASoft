@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On June 22, 2022
+- It seems now that with the time series forecasting, it is possible to study its future deterministicness which seems impossible in the past! This is just interpretations of forecasting results.
+
 On June 13, 2022
 - It is observed that sometimes forecasting on certain ticks shows two complete opposite trending directions.  Is stock future deterministic? This research topic might warrant stock future study/understanding!
   
