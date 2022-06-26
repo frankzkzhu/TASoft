@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On June 26, 2022
+- TASoft LLC announced that entire US stock forecasting data is accessible for special business partners!
+
 On June 22, 2022
 - It seems now that with the time series forecasting, it is possible to study its future deterministicness which seems impossible in the past! This is just interpretations of forecasting results.
 
