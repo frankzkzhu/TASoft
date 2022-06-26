@@ -2,6 +2,9 @@
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
 On June 26, 2022
+- TASoft LLC will open a youtube channel to explain TASoft LLC forecasting!
+
+On June 26, 2022
 - TASoft LLC announced that entire US stock forecasting data is accessible for special business partners! https://www.tasoft.net/services/partner.html
 
 On June 22, 2022
