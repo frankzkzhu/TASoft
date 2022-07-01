@@ -2,7 +2,7 @@
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
 On July 1, 2022
-- Nowdays Laptop's power is in parallelism. Forturnately, timeseries forecasting is parallel in nature! Forecasting software is now fully exploiting muti-threading power!
+- Nowdays Laptop's power is in parallelism. Forturnately, timeseries forecasting is parallel in nature! After week's work, forecasting software is now fully exploiting muti-threading power!
 
 On June 26, 2022
 - TASoft LLC will open a youtube channel to explain TASoft LLC forecasting!
