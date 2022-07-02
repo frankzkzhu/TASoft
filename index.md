@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On July 2, 2022
+- Moving to multithreading, computing power boosted beyond 10x! The production line is speeding up!
+
 On July 1, 2022
 - Nowdays Laptop's power is in parallelism. Forturnately, timeseries forecasting is parallel in nature! After week's work, forecasting software is now fully exploiting muti-threading power!
 
