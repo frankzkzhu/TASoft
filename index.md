@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On July 19, 2022
+- With multithreading and code improvements, it is likely the entire US market can be cycled on two decent laptop within a week! 
+
 On July 2, 2022
 - Moving to multithreading, computing power boosted beyond 10x! The production line is speeding up!
 
