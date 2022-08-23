@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On August 23, 2022
+- After several weeks observation, it appears that index fund future forecasting is very much like deterministic!
+
 On July 19, 2022
 - With multithreading and code improvements (speed up 40x), it is likely the entire US market can be cycled on two decent laptop within a week! 
 
