@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On August 26, 2022
+- The Fed influences the market or the market influences the Fed. The later probably has more weight. After all the market future is deterministic!
+
 On August 23, 2022
 - After several weeks observation, it appears that index fund future forecasting is very much like deterministic!
 
