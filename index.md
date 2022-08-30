@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On August 30, 2022
+- With time series forecasting science, it is possible to build economic control parameters in the model and forecasting will tell its imapct. It is no longer guess but with scientific precision.
+
 On August 26, 2022
 - The Fed influences the market or the market influences the Fed. The later probably has more weight. After all the market future is deterministic!
 
