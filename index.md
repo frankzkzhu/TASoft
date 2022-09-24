@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On September 24, 2022
+- Currently it appears that stock market index forecasting is not deterministic. It did slide into different model. However, thinking in subspace of linear algegra suggests that with cross model integration it will bridge the gap, and therefore it is likely deterministic in the end!!
+
 On August 30, 2022
 - With time series forecasting science, it is possible to build economic control parameters in the model and forecasting will tell its imapct. It is no longer guess but with scientific precision.
 
