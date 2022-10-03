@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On October 2, 2022
+- With cross model integration, the mathematical solution is now complete! While future could be still not deterministic, it becomes more interesting to find out the future paths!
+
 On September 26, 2022
 - Interestingly, most of the stock futures trend with its associated industry sector. And futhermore, sector index fund forecasting is largely deterministic even without model crossover.
 
