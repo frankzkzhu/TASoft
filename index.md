@@ -2,7 +2,7 @@
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
 On October 14, 2022
-- Forecasting index fund with increasing accuracy, TASoft LLC will add service to fund managers on 401k investment as well!
+- Completion of solution leads to forecasting index fund with increasing accuracy, TASoft LLC will add service to fund managers on 401k investment as well!
 
 On October 2, 2022
 - With cross model integration, the mathematical solution is now complete! While future could be still not deterministic, it becomes more interesting to find out the future paths and understandings!
