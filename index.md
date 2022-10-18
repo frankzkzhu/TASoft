@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On October 18, 2022
+- Through further ubderstanding forecasting mechanisms, it becomes increasingly clear that forecasting future is deterministic, in worst case scenario, with small number of variations!
+
 On October 14, 2022
 - Completion of solution leads to forecasting index fund with increasing accuracy, TASoft LLC will add service to fund managers on 401k investment as well!
 
