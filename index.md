@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On October 24, 2022
+- Future solutions on time series is now complete! With this new understandings, hopefully it could shed new light on understanding of time dimension as well!
+
 On October 18, 2022
 - Through further ubderstanding forecasting mechanisms, it becomes increasingly clear that forecasting future is deterministic, in worst case scenario, with small number of variations!
 
