@@ -2,7 +2,7 @@
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
 On November 15, 2022
-- With much more consistent forecasting results and theoretical understanding, our time series theory now has establsihed sound theoretical foundation!
+- With much more consistent forecasting results and theoretical understanding, our time series theory now has establsihed sound theoretical foundation! Maybe human being can then unlock the mystery of future!
 
 On October 24. 2022
 - While future solutions are not perfect deterministic, but with some distribution, the algorithm itself with this built in intrinsically is essential for success! And for that, we has success. Therefore forecasting itself has some small noise!
