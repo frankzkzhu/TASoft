@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On December 5, 2022
+- Published TAsoft LLC Stock Forecasting on youtube to kick off the mini series of TASoft LLC stock forecasting!
+
 On November 15, 2022
 - With much more consistent forecasting results and theoretical understanding, our time series theory now has established sound theoretical foundation both from theoretical and practical perspective! It is also openning a door for human being to unlock the mystery of future!
 
