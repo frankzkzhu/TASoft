@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On December 11, 2022
+- While ideas for cross model integration greatly improves consistentcy, it hasn't achieved desired results for cross model integration itself yet. Still hopeful that cross model integration will make forecasting perfection as normal and inaccuracy as anomaly!
+
 On December 5, 2022
 - Published TAsoft LLC Stock Forecasting on youtube to kick off the mini series of TASoft LLC stock forecasting!
 
