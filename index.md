@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On December 22, 2022
+- TASoft Forecasting has achieved amazing accuracy across almost all index fund forecasting! 
+
 On December 11, 2022
 - While ideas for cross model integration greatly improves consistentcy, it hasn't achieved desired results for cross model integration itself yet. Still hopeful that cross model integration will make forecasting perfection as normal and inaccuracy as anomaly!
 
