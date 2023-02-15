@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On Feburary 15, 2023
+- With the successful validation of model integration of time series forecasting, TASoft LLC has completely established the foundation of time series forecasting! This also implies the deterministic behavior of time series forecasting (anomaly could still exist!)!
+
 On Feburary 9, 2023
 - Cross model integration shows success! This further validates our theory and engineering! Now our verfication process is complete! (With careful examination of software implementation, some mistakes are found and corrected! We reported early that cross model integration did not show improvement. That was due to quick turnaround which was problematic!)
 
