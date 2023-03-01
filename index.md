@@ -2,7 +2,7 @@
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
 On Feburary 24, 2023
-- While it is nearly but not direct proof that time series future is deterministic (not probable), it is becoming increasingly evident that time series forecasting is deterministic as normal behavior! The implications obviously is immense and should not take it lightly!
+- While it is nearly but not directly proof that time series future is deterministic (not probable), it is becoming increasingly evident that time series forecasting is deterministic as normal behavior! The implication obviously is immense and should not take it lightly!
  
 On Feburary 15, 2023
 - With the successful validation of model integration of time series forecasting, TASoft LLC has completely established the foundation of time series forecasting! This also implies the deterministic behavior of time series forecasting (anomaly could still exist!)!
