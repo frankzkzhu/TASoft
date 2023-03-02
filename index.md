@@ -2,7 +2,7 @@
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
 On March 1, 2023
-- Today marks five years annversary of TASoft LLC! With luck and hard working, we can now celebrate the success time series forecasting theory! For TASoft LLC, it is a milestone and has a bright future ahead! For the world, it is a birth of new branch of science and provides an opportunity to understand/unlock the mystery of time!
+- Today marks five years annversary of TASoft LLC! With luck and hard working, we can now celebrate the success of time series forecasting theory! For TASoft LLC, it is a milestone and has a bright future ahead! For the world, it is a birth of new branch of science and provides an opportunity to understand/unlock the mystery of time!
 
 On Feburary 24, 2023
 - While it is nearly but not directly proof that time series future is deterministic (not probable), it is becoming increasingly evident that time series forecasting is deterministic as normal behavior! The implication obviously is immense and should not take it lightly!
