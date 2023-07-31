@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On July 30,2023
+- It is increasingly evident that with this understanding of time dimension, there is possible for a dataphysics approach to uncover the mystery of time!
+  
 On March 1, 2023
 - Today marks five years annversary of TASoft LLC! With luck and hard working, we can now celebrate the success of time series forecasting theory! For TASoft LLC, it is a milestone and has a bright future ahead! For the world, it is a birth of new branch of science and provides an opportunity to understand/unlock the mystery of time!
 
