@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On July 31, 2023
+- Just like spacetime curvature is a pivotal concept of special relativity, algebraic geometry will play critical role in the coming dataphysics!
+  
 On July 30,2023
 - It is increasingly evident that with this new understanding of time dimension, there is a possibility for a dataphysics approach to uncover the mystery of time!
   
