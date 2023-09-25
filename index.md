@@ -1,6 +1,9 @@
 ## Welcome to TASoft LLC Blog Page
 
 ### TASoft LLC will use this space for news, announcements, and all related events.
+On September 25, 2023
+- Randomness and deterministic, seems odd couple, but it works well behind thermal statistics!! In this way, it can be explained intutively that future can be deterministic!!
+  
 On July 31, 2023
 - Just like spacetime curvature is a pivotal concept of special relativity, algebraic geometry will play critical role in the coming dataphysics!
   
